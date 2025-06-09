@@ -1,0 +1,45 @@
+2025-06-09 17:45:53,230 [INFO] Database tables created.
+2025-06-09 17:45:53,231 [INFO] Database tables created.
+2025-06-09 17:46:02,653 [INFO] User logged in: user2 (uuid: user2-static-uuid)
+2025-06-09 17:46:02,686 [INFO] History appended: uuid=user2-static-uuid, session_id=e8a55efa-6b0f-4cbd-a575-4033eb05eadd, role=system
+2025-06-09 17:46:02,687 [INFO] WebSocket connected: session_id=e8a55efa-6b0f-4cbd-a575-4033eb05eadd
+2025-06-09 17:46:02,691 [INFO] History fetched: uuid=user2-static-uuid, session_id=e8a55efa-6b0f-4cbd-a575-4033eb05eadd
+2025-06-09 17:46:02,691 [INFO] History sessions fetched for uuid=user2-static-uuid
+2025-06-09 17:46:04,621 [INFO] History fetched: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:46:06,489 [INFO] WebSocket disconnected: session_id=e8a55efa-6b0f-4cbd-a575-4033eb05eadd
+2025-06-09 17:46:06,489 [INFO] WebSocketDisconnect: session_id=e8a55efa-6b0f-4cbd-a575-4033eb05eadd
+2025-06-09 17:46:06,492 [INFO] WebSocket connected: session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:46:06,504 [INFO] History fetched: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:46:06,505 [INFO] History sessions fetched for uuid=user2-static-uuid
+2025-06-09 17:46:13,076 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=user
+2025-06-09 17:46:13,077 [INFO] User message received: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:46:53,149 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=assistant
+2025-06-09 17:46:53,150 [INFO] Model response completed: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:46:53,152 [INFO] History fetched: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:46:53,152 [INFO] History sessions fetched for uuid=user2-static-uuid
+2025-06-09 17:47:14,710 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=user
+2025-06-09 17:47:14,710 [INFO] User message received: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:47:26,186 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=assistant
+2025-06-09 17:47:26,186 [INFO] Model response completed: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:47:26,189 [INFO] History fetched: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:47:26,189 [INFO] History sessions fetched for uuid=user2-static-uuid
+2025-06-09 17:47:53,772 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=user
+2025-06-09 17:47:53,772 [INFO] User message received: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:49:01,653 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=assistant
+2025-06-09 17:49:01,654 [INFO] Model response completed: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:49:01,658 [INFO] History fetched: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:49:01,658 [INFO] History sessions fetched for uuid=user2-static-uuid
+2025-06-09 17:49:50,380 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=user
+2025-06-09 17:49:50,380 [INFO] User message received: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:51:27,121 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=assistant
+2025-06-09 17:51:27,121 [INFO] Model response completed: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:51:27,125 [INFO] History fetched: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:51:27,126 [INFO] History sessions fetched for uuid=user2-static-uuid
+2025-06-09 17:51:45,672 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=user
+2025-06-09 17:51:45,672 [INFO] User message received: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:53:18,478 [INFO] History appended: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312, role=assistant
+2025-06-09 17:53:18,478 [INFO] Model response completed: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:53:18,482 [INFO] History fetched: uuid=user2-static-uuid, session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:53:18,482 [INFO] History sessions fetched for uuid=user2-static-uuid
+2025-06-09 17:53:21,471 [INFO] WebSocket disconnected: session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
+2025-06-09 17:53:21,471 [INFO] WebSocketDisconnect: session_id=cce94438-2842-48dd-8847-6ef3aa1bd312
