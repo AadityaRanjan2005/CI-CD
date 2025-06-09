@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# Check if .env file exists
-if [ ! -f .env ]; then
-    echo "Error: .env file not found. Please ask one from the host."
-    exit 1
-fi
-
 echo "Installing dependencies..."
 pip install -r requirements.txt
 
