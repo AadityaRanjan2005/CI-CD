@@ -6,7 +6,7 @@ import os
 from dotenv import load_dotenv
 
 # Logging setup 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__) 
 
 
 load_dotenv()
